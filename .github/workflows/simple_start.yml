@@ -1,5 +1,5 @@
 #https://github.com/docker/build-push-action
-name: ci
+name: R-Universal Docker Simple
 
 on:
   push:
